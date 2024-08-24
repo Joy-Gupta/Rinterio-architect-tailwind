@@ -5,7 +5,7 @@ module.exports = {
     extend: {
 
         colors: {
-        'rintero-primary-color': '#ABEF5F'
+        'bg-rinterio-color': '#ABEF5F'
        }
        ,
         backgroundImage: {
